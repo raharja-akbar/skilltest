@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hay nama saya akbar
 posisi front endeveloper
+=======
+hay nama saya akbar
+saya bekerja di ebdesk
+>>>>>>> origin/branch1
